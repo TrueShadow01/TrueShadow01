@@ -12,8 +12,6 @@ I am a dude who programs stuff.
 
 - User Management Backend ([Live Demo](https://user-management-backend-project.onrender.com))
 
-  - A fully-featured user management system, built entirely from scratch.
+  - A fully-featured user management system, built entirely from scratch
 
-  - Implemented backend logic, authentication, and database integration independently.
-
-  - Designed for scalability and ease of use, with clean, maintainable code.
+  - Implemented backend logic, authentication and database integration independently
