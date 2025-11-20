@@ -10,5 +10,10 @@ I am a dude who programs stuff.
 
 # Projects
 
-- User Management Project (https://user-management-backend-project.onrender.com)
-  - I did everything including the Backend myself
+- User Management Backend ([Live Demo](https://user-management-backend-project.onrender.com))
+
+  - A fully-featured user management system, built entirely from scratch.
+
+  - Implemented backend logic, authentication, and database integration independently.
+
+  - Designed for scalability and ease of use, with clean, maintainable code.
