@@ -8,7 +8,7 @@ I am a dude who programs stuff.
 - Learning WebDev and GameDev currently (C#, Unity)
 - Based in Germany
 
-  # Projects
+# Projects
 
-  - User Management Project (https://user-management-backend-project.onrender.com)
-    - I did everything including the Backend myself
+- User Management Project (https://user-management-backend-project.onrender.com)
+  - I did everything including the Backend myself
