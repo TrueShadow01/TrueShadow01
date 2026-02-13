@@ -18,3 +18,7 @@ I am a dude who programs stuff.
 - [SCP Containment System with Raspberry Pi5 integration](https://github.com/TrueShadow01/SCPContainmentSystem)
   - Integration with the Raspberry Pi5 and electrical components
   - State-machine built from scratch
+
+- [SCP Terminal Simulator](https://github.com/TrueShadow01/SCP-Terminal-Simulator)
+  - Login simulation with virtual clearance system
+  - Dynamic loading of SCP files (.txt)
