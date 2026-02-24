@@ -22,3 +22,6 @@ I am a dude who programs stuff.
 - [SCP Terminal Simulator](https://github.com/TrueShadow01/SCP-Terminal-Simulator)
   - Login simulation with virtual clearance system
   - Dynamic loading of SCP files (.txt)
+
+- [Binary Extractor](https://github.com/TrueShadow01/BinaryExtractor)
+  - Custom made Extractor and Packer for a custom .bin format
