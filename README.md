@@ -1,11 +1,10 @@
 Hi!
 ===============================================================================================================================================
 
-I am a dude who programs stuff.
+I am just a ordinary stranger.
 
 # About me
 
-- Completed some Web Projects (one of them listed below)
 - Currently developing a fork of [RE-Mesh-Editor from NSA-Cloud](https://github.com/NSACloud/RE-Mesh-Editor), Fork available down below in the Projects section
 - Based in Germany
 
