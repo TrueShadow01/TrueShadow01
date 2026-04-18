@@ -6,7 +6,7 @@ I am a dude who programs stuff.
 # About me
 
 - Completed some Web Projects (one of them listed below)
-- Currently learning with my Raspberry Pi5 and C++
+- Currently developing a fork of [RE-Mesh-Editor from NSA-Cloud](https://github.com/NSACloud/RE-Mesh-Editor), Fork available down below in the Projects section
 - Based in Germany
 
 # Projects
@@ -25,3 +25,8 @@ I am a dude who programs stuff.
 
 - [Binary Extractor](https://github.com/TrueShadow01/BinaryExtractor)
   - Custom made Extractor and Packer for a custom .bin format
+
+- [REME](https://github.com/TrueShadow01/REME)
+  - Fork of the [RE-Mesh-Editor from NSA-Cloud](https://github.com/NSACloud/RE-Mesh-Editor) Blender plugin
+  - Support for PRAGMATA Models (full game)
+  - rewrote the plugin to support PRAGMATA Model import with textures
