@@ -1,12 +1,10 @@
-Hi!
-===============================================================================================================================================
-
 I am just a ordinary stranger.
 
 # About me
 
 - Currently developing a fork of [RE-Mesh-Editor from NSA-Cloud](https://github.com/NSACloud/RE-Mesh-Editor), Fork available down below in the Projects section
 - Based in Germany
+- Awful lot of interest in low-level stuff and SCP
 
 # Projects
 
