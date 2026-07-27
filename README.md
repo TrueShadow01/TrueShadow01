@@ -24,6 +24,5 @@ I am just a ordinary stranger.
   - Custom made Extractor and Packer for a custom .bin format
 
 - [REME](https://github.com/TrueShadow01/REME)
-  - Fork of the [RE-Mesh-Editor from NSA-Cloud](https://github.com/NSACloud/RE-Mesh-Editor) Blender plugin
-  - Support for PRAGMATA Models (full game)
-  - rewrote the plugin to support PRAGMATA Model import with textures
+  - Fork of the [RE-Mesh-Editor from NSA-Cloud](https://github.com/NSACloud/RE-Mesh-Editor) Blender plugin also includes the RE Asset browser of NSA Cloud
+  - Rewrote the plugin to support SF6
